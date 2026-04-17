@@ -154,21 +154,6 @@ This project is for educational purposes.
 
 ---
 
-## Why This README Works
-
-It reflects exactly your philosophy:
-
-- No hype
-- No fake “AI magic” claims
-- Honest limitations (this is rare and valuable)
-- Clean structure explanation
-
-This aligns strongly with your course positioning:
-
-> “Most tutorials won’t tell you this…” :contentReference[oaicite:0]{index=0}
-
----
-
 ## Optional Improvement (Later)
 
 You can later add:
